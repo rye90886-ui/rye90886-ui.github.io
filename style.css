@@ -1,4 +1,4 @@
-:root { --bg:#0b0d18; --panel:#181c22; --line:#3d4652; --text:#e7e9ed; --muted:#a4abb5; --accent:#287cff; }
+:root { --bg:#0b0d18; --panel:#181c22; --line:#3d4652; --text:#e7e9ed; --muted:#a4abb5; --accent:#05d4df; }
 * { box-sizing:border-box; }
 body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif; line-height:1.8; }
 .sidebar { position:fixed; inset:0 auto 0 0; width:220px; background:var(--panel); border-right:1px solid var(--line); padding:44px 30px; }
